@@ -7,5 +7,5 @@ def main():
         str: return answer.
     """
     s = "s"
-    return "s"
+    return s
 print(main())
